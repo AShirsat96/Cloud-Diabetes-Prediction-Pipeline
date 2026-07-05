@@ -111,9 +111,7 @@ Features include:
 - Personalized clinical recommendations
 - Cloud-hosted inference
 
-<img width="945" height="2048" alt="WhatsApp Image 2025-12-14 at 22 10 35_ce4de3df" src="https://github.com/user-attachments/assets/5c4bae03-2456-48a0-866a-15541ef97182" />
-
-<img width="945" height="2048" alt="WhatsApp Image 2025-12-14 at 22 10 35_409a2724" src="https://github.com/user-attachments/assets/7d8be462-c605-473d-8385-6d3c16b7f70a" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 5, 2026, 04_06_48 PM" src="https://github.com/user-attachments/assets/7a7d7449-370e-4403-b47c-f72b1680bd62" />
 
 
 ---
