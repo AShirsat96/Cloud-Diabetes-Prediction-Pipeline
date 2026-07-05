@@ -1,5 +1,33 @@
-dash==3.2.0
-dash-bootstrap-components
-plotly
-boto3
-gunicorn
+
+# Core Data Processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Apache Spark
+pyspark>=3.5.0
+findspark>=2.0.1
+
+# Machine Learning
+scikit-learn>=1.5.0
+xgboost>=2.1.0
+catboost>=1.2.7
+
+# Data Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.2
+plotly>=5.24.0
+
+# Dashboard
+dash>=3.2.0
+dash-bootstrap-components>=1.7.1
+
+# AWS Deployment
+boto3>=1.35.0
+sagemaker>=2.230.0
+
+# WSGI Server
+gunicorn>=23.0.0
+
+# Notebook
+jupyter>=1.1.1
+ipykernel>=6.29.0
